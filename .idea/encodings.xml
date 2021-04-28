@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/AStarApp.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/AStarPathfinder.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/AStarState.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/JMapCell.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Location.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Map2D.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Waypoint.java" charset="windows-1251" />
+  </component>
+</project>
